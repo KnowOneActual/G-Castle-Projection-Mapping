@@ -1,6 +1,6 @@
 # G-Castle Projection Mapping
 
-A professional, repeatable projection mapping project for holiday events (Christmas, Halloween, etc.) at the G-Castle. This project focuses on high-impact visuals using budget-friendly, open-source, or consumer-grade tools.
+A professional, repeatable projection mapping project for holiday events (Christmas, Halloween, etc.) at the G-Castle (A good friend's house) :). This project focuses on high-impact visuals using budget-friendly, open-source, or consumer-grade tools.
 
 ## 🏰 Project Vision
 Transform the G-Castle into a dynamic, immersive experience using 3D projection mapping that can be easily deployed and repeated each season.
