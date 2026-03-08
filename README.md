@@ -27,4 +27,4 @@ Transform the G-Castle into a dynamic, immersive experience using 3D projection 
 - **Beau Bremer** (Collaborator/CLI Support)
 
 ## 📜 License
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md) Creative Commons License.
+This project is licensed under the [MIT License](LICENSE.md).
