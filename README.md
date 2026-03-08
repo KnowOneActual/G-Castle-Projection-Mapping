@@ -13,7 +13,7 @@ Transform the G-Castle into a dynamic, immersive experience using 3D projection 
 ## 🛠️ Current Tech Stack
 - **Mapping Software:** [Digital Pressworks Free Mapper](https://digitalpressworks.com/free-mapping-software/)
 - **Compositing & Editing:** DaVinci Resolve
-- **Playback Hardware:** Micca Player (or similar standalone media player)
+- **Playback Hardware:** Micca Player (or similar standalone media player). Possibly a Raspberry Pi.
 - **Projector:** (TBD - See Research)
 
 ## 📅 Roadmap (2026 Revision)
